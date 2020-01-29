@@ -1,2 +1,2 @@
 # InterestedParty
-Prototype for simple Interested Party IMplementation using AWS pipeline
+Prototype for simple Interested Party Implementation using AWS pipeline
